@@ -10,7 +10,7 @@ Welcome to the official portfolio hub for Engineering students at Effat Universi
 |-------------|----------------|
 | Celine Al Harake | [View Portfolio](https://celineharakee.github.io/portfolio/) |
 | Amani Albarazi | [View Portfolio](https://amani-bara.github.io/Amani-Albarazi.github.io/) |
-| Student 3 | [View Portfolio](https://daaalrijjal.github.io/Portfolio/) |
+| Dana Alrijjal | [View Portfolio](https://daaalrijjal.github.io/Portfolio/) |
 
 ---
 
