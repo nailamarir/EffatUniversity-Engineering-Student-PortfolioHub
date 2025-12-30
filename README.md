@@ -12,6 +12,7 @@ Welcome to the official portfolio hub for Engineering students at Effat Universi
 | Amani Albarazi | [View Portfolio](https://amani-bara.github.io/Amani-Albarazi.github.io/) |
 | Dana Alrijjal | [View Portfolio](https://daaalrijjal.github.io/Portfolio/) |
 | Arwa Alomari | [View Portfolio](https://arwalulu.github.io/Arwa-Portfolio/) |
+| Raghad Alamoudi | [View Portfolio](https://sites.google.com/view/raghadalmoudiportfolio?usp=sharing) |
 
 ---
 
@@ -45,9 +46,9 @@ Welcome to the official portfolio hub for Engineering students at Effat Universi
 
 | Department | Number of Portfolios |
 |------------|---------------------|
-| Computer Science | 4 |
+| Computer Science | 5 |
 | Electrical & Computer Engineering | 19 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 ---
 
